@@ -1,3 +1,5 @@
+# Created: 2023/03/27
+
 # Palindrome-Check
 
 **Palindrome-Check** is a Java-based GUI application that checks whether a given phrase is a palindrome. It takes user input, removes non-alphanumeric characters, and uses a linked list to determine if the phrase reads the same forwards and backwards.
